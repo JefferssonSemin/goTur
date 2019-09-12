@@ -1,13 +1,5 @@
 
-</h1>
-
-<p align="center">An API for barber appointment and scheduling.</p>
-
-<p align="center">
-#GoBarber API
-</p>
-
-<hr />
+# GoBarber API
 
 ## Features
 
