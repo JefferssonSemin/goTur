@@ -1,5 +1,5 @@
 
-# GoBarber API
+# goTur API
 
 ## Features
 
